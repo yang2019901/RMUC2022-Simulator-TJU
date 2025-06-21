@@ -99,7 +99,7 @@ server PC和client PC的网络带宽建议不小于1Mb/s，网速占用的理论
 
 用户在此填写昵称（Player Name），建议不多于六个半角字符以保证显示完整。每次启动时，将默认使用电脑名称作为昵称。
 
-<img src="README.assets\log_in.png" alt="log_in" style="zoom: 67%;" />
+<img src="README.assets\log_in.png" alt="log_in" width="100%" />
 
 ### 游玩模式选择
 
@@ -107,7 +107,7 @@ server PC和client PC的网络带宽建议不小于1Mb/s，网速占用的理论
 - **Multi Player:** 创建或加入联机房间。
 - **Back:** 返回登录界面。
 
-<img src="README.assets\select_mode.png" alt="select_mode" style="zoom:67%;" />
+<img src="README.assets\select_mode.png" alt="select_mode" width="100%" />
 
 ### 兵种选择
 
@@ -115,17 +115,17 @@ server PC和client PC的网络带宽建议不小于1Mb/s，网速占用的理论
 - **选择兵种:** 点击兵种两侧的按钮即可选择（红方在左，蓝方在右）。
 - **准备状态:** 非房主玩家选择兵种后，按钮将变为 `Cancel Ready`，用于向房主示意已就绪作。此作仅用于提示房主，未就绪状态的玩家不影响房主开始比赛。
 
-<img src="README.assets\select_robot.png" alt="select_robot" style="zoom:67%;" />
+<img src="README.assets\select_robot.png" alt="select_robot" width="100%"/>
 
 ### 比赛场地
 
 UI界面模拟了真实的RoboMaster比赛操作界面，并在左下角额外增加了电容和经验指示条，以提供更丰富的状态信息。
 
-<img src="README.assets\in_game1.png" alt="in_game1" style="zoom: 33%;" />
+<img src="README.assets\in_game1.png" alt="in_game1" width="100%"/>
 
 项目使用 `WheelCollider` 模拟车轮的物理特性，能够逼真地再现车辆在复杂地形（如下坡）的侧翻等动态效果。
 
-<img src="README.assets\in_game2.png" alt="in_game2" style="zoom: 33%;" />
+<img src="README.assets\in_game2.png" alt="in_game2" width="100%"/>
 
 ## 贡献指南
 
@@ -139,7 +139,7 @@ UI界面模拟了真实的RoboMaster比赛操作界面，并在左下角额外�
 
 ## 行为准则
 
-为了营造一个开放和热情的环境，我们作为贡献者和维护者保证，无论年龄、体型、残疾、种族、性别认同和表达、经验水平、国籍、个人外表、种族、宗教或性别认同和取向如何，我们项目和社区的参与者都不会受到骚扰。
+为了营造一个开放和热情的环境，我们作为贡献者和维护者保证，无论年龄、身材、能力、种族、性别和表达、经验水平、国籍、外貌、民族、宗教或性认同和性取向，我们项目和社区的参与者都不会受到骚扰。
 
 ## 版本
 
